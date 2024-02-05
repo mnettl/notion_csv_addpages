@@ -1,2 +1,3 @@
 # ignore the global variables file
 /.env
+*.csv

@@ -5,7 +5,7 @@ This console app is part of my Tiktok Backup Suite (https://github.com/mnettl/vi
 
 ## Instructions
 
-1 - You must have a Notion API token to run this app. Instructions for obtaining an API file can be found here (https://developers.notion.com/docs/authorization). 
+1 - You must have a Notion API token to run this app. Instructions for obtaining an API token can be found here (https://developers.notion.com/docs/authorization). 
 
 1a. Add the token to the .env file:
 
